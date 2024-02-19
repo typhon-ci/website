@@ -1,0 +1,18 @@
+baseURL: "https://typhon-ci.org/"
+title: Typhon
+theme: papermod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Typhon"
+    subtitle: "Nix-based continuous integration"
+    imageUrl: "nix.svg"
+    imageTitle: "nix.svg"
+    buttons:
+      - name: Repo
+        url: "https://github.com/typhon-ci/typhon"
+      - name: Doc
+        url: "https://doc.typhon-ci.org/"
+      - name: Etna
+        url: "https://etna.typhon-ci.org/"
