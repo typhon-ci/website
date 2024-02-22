@@ -16,3 +16,5 @@ params:
         url: "https://doc.typhon-ci.org/"
       - name: Etna
         url: "https://etna.typhon-ci.org/"
+      - name: Zulip
+        url: "https://typhon.zulipchat.com/"
