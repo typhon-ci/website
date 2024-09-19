@@ -1,7 +1,7 @@
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs";
-    flake-utils.url = "flake-utils";
+    flake-utils.url = "github:numtide/flake-utils";
     papermod = {
       url = "github:adityatelange/hugo-papermod";
       flake = false;
