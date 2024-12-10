@@ -7,8 +7,8 @@ params:
     enabled: true
     title: "Typhon"
     subtitle: "Nix-based continuous integration"
-    imageUrl: "nix.svg"
-    imageTitle: "nix.svg"
+    imageUrl: "typhon.jpg"
+    imageTitle: "typhon.jpg"
     buttons:
       - name: Repo
         url: "https://github.com/typhon-ci/typhon"
